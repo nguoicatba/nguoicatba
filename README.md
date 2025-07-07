@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Lê Trung Kiên</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Le Trung Kien</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Laravel+%7C+C%2B%2B+%7C+Competitive+Programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;C+C%2B%2B+%7C+Competitive+Programming" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Laravel Web APIs**
-- 🌱 I’m learning **Livewire, Alpine.js, TALL Stack**
+- 🔭 I’m currently working on **Laravel Web**
 - 💬 Ask me about **C++, Laravel, CP, Blade**
 - 📫 Contact: [Codeforces](https://codeforces.com/profile/nguoicatba)
 
@@ -29,8 +28,6 @@
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
