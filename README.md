@@ -1,3 +1,5 @@
-# Hi there 👋
-## test
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguoicatba)](https://github.com/anuraghazra/github-readme-stats)
+# Hi Nguyen Kien
+## About me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguoicatba&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguoicatba&layout=compact)
+
