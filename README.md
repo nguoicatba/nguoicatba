@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Le Trung Kien</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;C+C%2B%2B+%7C+Competitive+Programming" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on **Laravel Web**
